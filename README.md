@@ -13,5 +13,9 @@ All the datasets can be found in the `data` folder. The files are as follows:
 - `semeval2018_train.csv` is the SemEval 2018 dataset for SubTask A.
 
 
-In reference to the report, here is an additional visualization of a sarcastic example predicted by XGBoost trained on GLoVe embeddings.
+In reference to the report, here is an additional visualization of a sarcastic example predicted by XGBoost trained on GLoVe embeddings:
 ![XGBoost Visualization](imgs/glove-sarc-ex1.png)
+
+
+Here's another visualization showing model explainability for BERT-base with Captum for a sarcastic example:
+![Sarcastic example](imgs/ns1.png)
